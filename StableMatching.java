@@ -1,5 +1,3 @@
-package unit1;
-
 import java.util.LinkedList;
 
 public class StableMatching {
