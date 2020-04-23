@@ -1,4 +1,3 @@
-package unit1;
 /** An algorithm which sorts an array of integers
  * @author Ariel Traver
  * @version 1.0 **/
