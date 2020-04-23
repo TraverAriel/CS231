@@ -1,4 +1,3 @@
-package dataStructures;
 import java.util.LinkedList;
 
 /*** A simulation of a HashTable made to demonstrate understanding
